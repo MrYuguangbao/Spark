@@ -23,8 +23,8 @@ import java.util.regex.Pattern;
 
 import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
-import org.apache.spark.sql.SparkSession;
 
+import org.apache.spark.sql.SparkSession;
 import scala.Tuple2;
 
 /**
